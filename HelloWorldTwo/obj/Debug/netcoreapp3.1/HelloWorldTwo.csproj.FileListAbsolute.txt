@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\BridgeLabz\HelloWorldTwo\HelloWorldTwo\bin\Debug\netcoreapp3.1\HelloWorldTwo.exe
+C:\Users\Admin\Desktop\BridgeLabz\HelloWorldTwo\HelloWorldTwo\bin\Debug\netcoreapp3.1\HelloWorldTwo.deps.json
+C:\Users\Admin\Desktop\BridgeLabz\HelloWorldTwo\HelloWorldTwo\bin\Debug\netcoreapp3.1\HelloWorldTwo.runtimeconfig.json
+C:\Users\Admin\Desktop\BridgeLabz\HelloWorldTwo\HelloWorldTwo\bin\Debug\netcoreapp3.1\HelloWorldTwo.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\BridgeLabz\HelloWorldTwo\HelloWorldTwo\bin\Debug\netcoreapp3.1\HelloWorldTwo.dll
+C:\Users\Admin\Desktop\BridgeLabz\HelloWorldTwo\HelloWorldTwo\bin\Debug\netcoreapp3.1\HelloWorldTwo.pdb
+C:\Users\Admin\Desktop\BridgeLabz\HelloWorldTwo\HelloWorldTwo\obj\Debug\netcoreapp3.1\HelloWorldTwo.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\BridgeLabz\HelloWorldTwo\HelloWorldTwo\obj\Debug\netcoreapp3.1\HelloWorldTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\BridgeLabz\HelloWorldTwo\HelloWorldTwo\obj\Debug\netcoreapp3.1\HelloWorldTwo.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\BridgeLabz\HelloWorldTwo\HelloWorldTwo\obj\Debug\netcoreapp3.1\HelloWorldTwo.AssemblyInfo.cs
+C:\Users\Admin\Desktop\BridgeLabz\HelloWorldTwo\HelloWorldTwo\obj\Debug\netcoreapp3.1\HelloWorldTwo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\BridgeLabz\HelloWorldTwo\HelloWorldTwo\obj\Debug\netcoreapp3.1\HelloWorldTwo.dll
+C:\Users\Admin\Desktop\BridgeLabz\HelloWorldTwo\HelloWorldTwo\obj\Debug\netcoreapp3.1\HelloWorldTwo.pdb
+C:\Users\Admin\Desktop\BridgeLabz\HelloWorldTwo\HelloWorldTwo\obj\Debug\netcoreapp3.1\HelloWorldTwo.genruntimeconfig.cache
